@@ -1,0 +1,12 @@
+main: me.mrblackisback.mobspawn.MobSpawn
+name: MobSpawn
+version: 1.0
+
+commands:
+   spawnpig:
+      description: Spawn 1 or more pig(s)!
+      usage: /<command> [amount]
+
+permissions:
+   mobspawn.pig:
+      default: op
