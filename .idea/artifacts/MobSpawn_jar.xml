@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MobSpawn:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MobSpawn_jar</output-path>
+    <root id="archive" name="MobSpawn.jar">
+      <element id="module-output" name="MobSpawn" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
